@@ -14,7 +14,7 @@
 
 
 - 📫 How to reach me: www.linkedin.com/in/terrain-gray-430013189
-- 👯 My past projects on my Portfolio:
+- 👯 My past projects on my Portfolio: A sticky note app
 - 🤔 I’m looking for help with ...
 
 
