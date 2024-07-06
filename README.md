@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm @Terushion
-- 🔭 I’m currently enrolled in an extensive BootCamp (by HyperionDev) to become a software developer!
+- 🔭 I’ve recently completed and gained a 96% overall grade in an extensive BootCamp (by HyperionDev) to become a Software Engineer/Developer!
 
 - 🌱 I’m currently learning
   Languages:
